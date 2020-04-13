@@ -1,6 +1,9 @@
 # M5Stack-Image-Avatar(beta version)
  M5Stack Image Avatar(beta version)
 
+![image](png/homura.png)
+![image](png/amabie.png)
+
 [日本語](README.md) | English
 
 The English version of README_en.md was created using [DeepL](https://www.deepl.com/translator). Please point out any errors in the translation.
@@ -125,9 +128,9 @@ Thanks to [lovyan03](https://github.com/lovyan03) of [LovyanGFX](https://github.
 Thanks to [robo8080](https://github.com/robo8080) of [M5Stack_WebRadio_Avatar](https://github.com/robo8080/M5Stack_WebRadio_Avator) for giving me a lot of advice and referring to me in the early days of creating Homura Gotsumi.
 
 # Credit
-[meganetaaan](https://github.com/meganetaaan)
-[lovyan03](https://github.com/lovyan03/LovyanGFX)
-[robo8080](https://github.com/robo8080)
+- [meganetaaan](https://github.com/meganetaaan)
+- [lovyan03](https://github.com/lovyan03/LovyanGFX)
+- [robo8080](https://github.com/robo8080)
 
 # LICENSE
 [MIT](LICENSE)

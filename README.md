@@ -1,6 +1,9 @@
 # M5Stack-Image-Avatar(beta version)
  M5Stack Image Avatar(beta version)
 
+![image](png/homura.png)
+![image](png/amabie.png)
+
 日本語 | [English](README_en.md)
 
 # ベータ版の注意
@@ -121,9 +124,9 @@ ImageAvatarを実現するにあたり優れたパフォーマンス、機能を
 
 
 # Credit
-[meganetaaan](https://github.com/meganetaaan)
-[lovyan03](https://github.com/lovyan03/LovyanGFX)
-[robo8080](https://github.com/robo8080)
+- [meganetaaan](https://github.com/meganetaaan)
+- [lovyan03](https://github.com/lovyan03/LovyanGFX)
+- [robo8080](https://github.com/robo8080)
 
 # LICENSE
 [MIT](LICENSE)
