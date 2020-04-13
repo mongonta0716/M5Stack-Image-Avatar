@@ -93,7 +93,7 @@ Homura Gotsumi can switch between normal, troubled, and angry by pressing button
 ## Unify the color palette information of image files
 As of April 2020, each image should have a common color palette and be embedded. You can embed the common color palette (color profile, color map) information by using GIMP or Photoshop. 
 ** The basic color palette must be created from an image file with all colors, including transparent and skin tones. **
-[colorpalette.png](png/colorpalette.png) for reference.
+[colorpalette_homura.png](png/colorpalette_homura.png),[colorpalette_amabie.png](png/colorpalette_amabie.png) for reference.
 
 I plan to improve this specification so that only skin color is common and okay.
 
